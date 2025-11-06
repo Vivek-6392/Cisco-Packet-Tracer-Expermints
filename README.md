@@ -36,7 +36,7 @@ This repository contains a series of practical experiments designed to help stud
 
 ## Requirements
 
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (version 8.x recommended)
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (version 9.x recommended)
 - Basic understanding of networking concepts (IP addressing, routing, switching, VLANs)
 
 ## Usage
